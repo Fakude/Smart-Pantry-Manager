@@ -1,0 +1,6 @@
+{
+  "name": "Smart Pantry Manager - Richfield MAD700 Portfolio",
+  "description": "Interactive Android Java application simulator, complete source codebase, strict matching algorithm visualizer, video walkthrough script, and academic written report for Mobile App Development 700.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
