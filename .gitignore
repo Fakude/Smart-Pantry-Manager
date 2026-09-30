@@ -1,6 +1,15 @@
+# Android
 .gradle/
 local.properties
 build/
 app/build/
 .idea/
 *.iml
+.DS_Store
+
+# Node / Build outputs / Logs
+node_modules/
+dist/
+*.log
+replay_pid*
+hs_err_pid*
