@@ -1,8 +1,6 @@
-node_modules/
+.gradle/
+local.properties
 build/
-dist/
-coverage/
-.DS_Store
-*.log
-.env*
-!.env.example
+app/build/
+.idea/
+*.iml
